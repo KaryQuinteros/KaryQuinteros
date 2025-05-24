@@ -1,32 +1,37 @@
-<h1 align="left">Hola👋 Soy karina Quinteros</h1>
+<h1 align="center">¡Hola! Soy Karina 👩🏻‍💻</h1>
 
-###
+<p align="center">
+| Estudiante de la Tecnicatura Superior en Desarrollo de Software |
+</p>
 
-<p align="left"></p>
+---
 
-###
+### ✨ Sobre mí
 
-<h2 align="left">Soy Estudiante de Tecnicatura Superior en Desarrollo de Software y Full Stack</h2>
+Soy una persona proactiva, adaptable y con muchas ganas de seguir creciendo en el mundo IT.  
+Actualmente estudio **Desarrollo de Software** 
+Me encanta aprender, crear, compartir y trabajar en equipo.
 
-###
+---
 
-<p align="left">📚 Eh trabajado en https://github.com/Innovacoders-devs/ArgBroker </p>
-  en https://wokwi.com/projects/413649035582706689 </p>
- 
- Actualmete estoy aprendiendo html y js
+### 🧰 Tecnologías y herramientas
 
-###
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<h2 align="left">I code with</h2>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+### 📫 Contacto
 
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KaryQuinteros)  
+
+
+---
+
+<p align="center">✨ Gracias por visitar mi perfil ✨</p>
