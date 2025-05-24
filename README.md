@@ -9,7 +9,7 @@
 ### ✨ Sobre mí
 
 Soy una persona proactiva, adaptable y con muchas ganas de seguir creciendo en el mundo IT.  
-Actualmente estudio **Desarrollo de Software** 
+Actualmente estudio **Desarrollo de Software**.
 Me encanta aprender, crear, compartir y trabajar en equipo.
 
 ---
