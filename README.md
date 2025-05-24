@@ -28,7 +28,7 @@ Me encanta aprender, crear, compartir y trabajar en equipo.
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-quinteros-690953121/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KaryQuinteros)  
 
 
